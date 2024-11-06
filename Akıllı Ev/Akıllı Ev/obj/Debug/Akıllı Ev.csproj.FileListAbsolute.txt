@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\Akıllı Ev\Akıllı Ev\bin\Debug\Akıllı Ev.exe.config
+C:\Users\user\Desktop\10-M\Akıllı Ev\Akıllı Ev\obj\Debug\Akıllı_Ev.Form1.resources
+C:\Users\user\Desktop\10-M\Akıllı Ev\Akıllı Ev\obj\Debug\Akıllı_Ev.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Akıllı Ev\Akıllı Ev\obj\Debug\Akıllı Ev.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Akıllı Ev\Akıllı Ev\bin\Debug\Akıllı Ev.exe
+C:\Users\user\Desktop\10-M\Akıllı Ev\Akıllı Ev\bin\Debug\Akıllı Ev.pdb
+C:\Users\user\Desktop\10-M\Akıllı Ev\Akıllı Ev\obj\Debug\Akıllı Ev.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Akıllı Ev\Akıllı Ev\obj\Debug\Akıllı Ev.exe
+C:\Users\user\Desktop\10-M\Akıllı Ev\Akıllı Ev\obj\Debug\Akıllı Ev.pdb
